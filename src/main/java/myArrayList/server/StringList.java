@@ -1,4 +1,4 @@
-package myArrayList;
+package myArrayList.server;
 
 import java.util.function.IntPredicate;
 
