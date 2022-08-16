@@ -1,4 +1,4 @@
-package myArrayList;
+package myArrayList.exception;
 
 public class ValueNotFoundException extends RuntimeException {
     public ValueNotFoundException() {
